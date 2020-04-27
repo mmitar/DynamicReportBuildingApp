@@ -10,6 +10,4 @@ public class NodeValueNumber implements INode
 		// TODO Auto-generated method stub
 		return null;
 	}
-	
-	
 }

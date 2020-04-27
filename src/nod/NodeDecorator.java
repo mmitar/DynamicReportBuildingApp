@@ -3,11 +3,11 @@ package nod;
 /*
  * Base Decorator
  */
-public abstract class NodeFunctionBase
+public abstract class NodeDecorator implements INode
 {
-	private INode node;
+	protected INode node;
 	
-	public NodeFunctionBase(INode node) {
+	public NodeDecorator(INode node) {
 		this.node = node;
 	}
 	
