@@ -1,5 +1,8 @@
 package com;
 
+/*
+ * Stragety Pattern.
+ */
 public abstract class ConditionOperatorBase implements ICondition
 {
 //	public abstract boolean evaluateCondition();

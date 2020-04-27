@@ -7,6 +7,9 @@ public class NodeValueNumber implements INode
 	@Override
 	public INode evaluateNode()
 	{
-		return this;
+		// TODO Auto-generated method stub
+		return null;
 	}
+	
+	
 }
